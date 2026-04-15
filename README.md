@@ -1,5 +1,4 @@
 # Reconocimiento_facial
-# Facial Recognition System
 
 ## 🚀 Overview
 
